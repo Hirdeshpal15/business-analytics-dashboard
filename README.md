@@ -5,7 +5,7 @@ This repository showcases my **Bussiness Analytics Dashboard**, created with **T
 ## 🔗 Live Demo
 👉 [View Tableau Public Profile Here](https://public.tableau.com/app/profile/hirdesh.pal/vizzes/)
 
-👉 [View the Dashboard Here](https://hirdeshpal15.github.io/HR-Dashboard-Portfolio/)
+👉 [Dashboard Here](https://hirdeshpal15.github.io/HR-Dashboard-Portfolio/)
 
 
 ## 📌 Project Overview
